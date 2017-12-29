@@ -1,6 +1,6 @@
 # Higgs.js
 
-The JavaScript selector engine that can fit in a tweet. 127 bytes.
+The JavaScript selector engine that can fit in a tweet. 127 bytes (the smallest JS micro selector engine out there).
 
 Higgs.js supports the major CSS selectors.
 
